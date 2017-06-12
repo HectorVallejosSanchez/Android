@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="title_activity_prueba">PruebaActivity</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+</resources>
